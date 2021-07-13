@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`properly renders the Alert Component 1`] = `
+<div
+  className="fade alert alert-success show"
+  role="alert"
+>
+  <div
+    className="alert-heading h4"
+  >
+    Hey, nice to see you
+  </div>
+  <p>
+    Allan Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content.
+  </p>
+  <hr />
+  <p
+    className="mb-0"
+  >
+    Whenever you need to, be sure to use margin utilities to keep things nice and tidy.
+  </p>
+</div>
+`;
